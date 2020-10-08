@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 
-Are you working from home and searching for the best food tracking app?
+# Are you working from home and searching for the best food tracking app?
 
 Need a personal nutrition coach to track your food intake while you’re working from home?
 You’ve come to the right place! [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web) is a digital tracker that helps you monitor your food intake and daily activities. Rated as one of the finest food tracking application, [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web) not only counts your calories, but also offers immediate suggestions and feedback. [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web) also offers frequent tips and encouragement for a healthy eating habit. 
@@ -22,7 +22,7 @@ All your questions could be answered by [Lilbite](https://play.google.com/store/
 
 
 
-The following features are offered by [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web):
+# The following features are offered by [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web):
 	•	Food Search
 	•	Doubtful about whether green pepper or broccoli provides more vitamin A? You can find out the answer through our food search option.
 	•	Regulate calorie requirements
@@ -63,6 +63,6 @@ You need to calculate your intake with the help of your measuring cup.
 	•	Several users underestimate the food intake and overestimate exercise. 
 	•	Choosing this option will enable an accurate tracking of calories from exercise.
 
-Conclusion
+# Conclusion
 [Lilbite](https://play.google.com/store/apps/details?id=com.lilbite.ai&referrer=utm_source%3Dlilbite_web) is one of the finest food tracking apps. Try this app today, as a learning tool. Lilbite will help you in tracking your own water intake, nutrients and calories, while tracking your steps as well.
 
