@@ -35,16 +35,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Learn. Track. Improve.
-    description                           : Keeping a food diary helps you understand your habits and increases your likelihood of hitting your goals
-    fontawesome_icon_name                 : running
+    description                           : Keeping a food diary helps you understand your habits and increases your likelihood of hitting your goals.
+    fontawesome_icon_name                 : carrot
     
-  - title                                 : Stay Motivated
-    description                           : Take control of your goals.
-    fontawesome_icon_name                 : tasks
+  - title                                 : Macros Calculator
+    description                           : Calculate all your macronutrients.
+    fontawesome_icon_name                 : calculator
 
-  - title                                 : Weight Tracking
-    description                           : Log your weight.
-    fontawesome_icon_name                 : weight
+  - title                                 : Water Tracker
+    description                           : Water Tracker Diet will help you to lose weight, keep fit and stay hydrated every day. 
+    fontawesome_icon_name                 : tint
 
   - title                                 : # Automatic Icon and Metadata
     description                           : # Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
